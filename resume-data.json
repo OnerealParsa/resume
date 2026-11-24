@@ -3,12 +3,12 @@
     "name": "پارسا پولادوند",
     "job_title": "دانشجوی مهندسی کامپیوتر",
     "profile_pic": "https://i.postimg.cc/wB9sCms2/200462968.jpg",
-    "bio": "دانشگاه بوعلی سینا",
+    "bio": "دانشجوی مهندسی کامپیوتر دانشگاه صنعتی خواجه نصیر",
     "contact": {
       "email": "mailto:Arsaepaengin@gmail.com",
       "phone": "tel:09966959920",
       "linkedin": "https://www.linkedin.com/in/parsa-pooladvand-2b172a351",
-      "github": "https://github.com/thecodingparsa"
+      "github": "https://github.com/OnerealParsa"
     }
   },
   "skills": [
@@ -19,7 +19,7 @@
   ],
   "education": [
     {
-      "institution": "دانشگاه بوعلی سینا",
+      "institution": "دانشگاه صنعتی خواجه نصیرالدین طوسی",
       "degree": "کارشناسی مهندسی کامپیوتر",
       "start_year": "1403",
       "end_year": "1407",
